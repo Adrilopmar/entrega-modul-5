@@ -1,0 +1,6 @@
+@for $i from 1 through 10{
+    .margevw-#{$i}{
+        margin: $i * 0.1vw;
+    }
+    
+}
